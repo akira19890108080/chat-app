@@ -29,6 +29,10 @@
   padding: 0 20px;
   overflow: scroll;
 }
+.room-name a{
+  text-decoration: none;
+  color: white;
+}
 
 .techroom {
   padding: 20px 0 40px;
